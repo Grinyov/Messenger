@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 /**
  * Created by green on 21.10.2015.
  */
-public class HelloWorldSpringDI {
+
     public class HelloWorldSpringDI {
         public static void main(String[] args) {
             ApplicationContext ctx = new ClassPathXmlApplicationContext
